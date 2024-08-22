@@ -94,7 +94,7 @@
                   <div class="form-group">
                     <label for="inp_email">Ваш Email *</label>
                     <input type="email" class="form-control" id="inp_email">
-                    <input type="email" class="d-none" id="inp_email_factory" value="<?="sagiden8@gmail.com"//$vakant['factory_email']?>">
+                    <input type="email" class="d-none" id="inp_email_factory" value="<?="merzhankuralay@gmail.com"//$vakant['factory_email']?>">
                   </div>
                   <div class="form-group">
                     <label for="inp_phone">номер телефона</label>
